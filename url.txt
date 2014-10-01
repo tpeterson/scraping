@@ -1,0 +1,15 @@
+ERB
+2014-06-18 21:09:37 -0700
+<b>10,013,048</b>
+<b>1,044,347,623</b>
+Vice News
+2014-06-18 21:10:24 -0700
+<li class="about-stat ">
+      <b>10,013,048</b> subscribers
+    </li>
+<li class="about-stat ">
+      <b>1,044,347,623</b> views
+    </li>
+<li class="about-stat joined-date">
+      Joined Feb 7, 2006
+    </li>
