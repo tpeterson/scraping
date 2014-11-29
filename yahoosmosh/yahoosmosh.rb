@@ -10,7 +10,7 @@ url = 'https://screen.yahoo.com/smosh/'
 
 page = Nokogiri::HTML(open(url))
 
-page.css('div.y-page div.y-content div.y-content-inner div.strip-wrap div.Pos-r div.Zoom-1 ul.Grid li').each do |link|
+page.css('div.y-page div.y-content div.y-content-inner div.strip-wrap').each do |link|
   headlines << link
 end
 

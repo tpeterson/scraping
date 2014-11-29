@@ -1,3 +1,25 @@
+<div class="strip-wrap Pos-r Us-n Px-0 Py-10 Bd-t W-100 Zoom-1 channel-info" data-channel-alias="smosh" data-channel-name="Smosh" data-ylk="cat:Smosh;t4:Smosh;ct:3;elm:tl;elmt:ct;sec:chnl;t1:a3;t2:chnl;t3:main-crsl;">
+        <div class="strip-inner-wrap">
+
+    <div class="channel-header channel-data" data-channel-alias="smosh" data-channel-name="Smosh">
+    <p class="channel-name D-ib Mb-8 Mt-0 Fz-m Pos-r Pstart-20">Smosh</p>
+    
+    <div class="subscription disabled">
+        <span class="subscribe " role="button">
+        
+            <i class="collapsed">＋</i>
+            <i class="expanded">Follow</i>
+        
+        </span>
+    </div>
+
+</div>
+
+    <div class="Pos-r">
+        <button class="ss-prev flat Pos-a Ta-c T-0 Start-0 H-100 Wpx-20 Cur-p rapid-noclick-resp"><i class="Icon Fz-l Pos-r"></i></button>
+        <div class="ss-wrap Pos-r Pstart-20 Pend-10">
+            <div class="Pos-r Zoom-1 Cl-b W-100 ss-bb Ov-h">
+                <ul class="Grid W-100 Pos-r Whs-nw Reset ss-cb">
 <li class="Grid-U-1-5 Zoom-1 Pos-r Bxz-bb Fz-s ss-item" data-uuid="50f0c613-7cd9-3e0d-98a3-2191dc548e3f" data-alias="lunchtime-w-smosh-nightvision-scary-191617669" data-idx="0">
         <a href="/smosh/lunchtime-w-smosh-nightvision-scary-191617669.html" class="rapidnofollow rapid-nf" data-ylk="cat:Smosh;g:50f0c613-7cd9-3e0d-98a3-2191dc548e3f;pkgt:1;pub:41f9535b-ba13-3ab2-967c-f862f288fadc;sec:Smosh;cpos:1;bpos:1;" data-alias="lunchtime-w-smosh-nightvision-scary-191617669">
             <div class="Ratio-16-9 Pos-r Ov-h">
@@ -34,7 +56,8 @@ Lunchtime w/Smosh - NIGHTVISION IS SCARY</p>
             
         </a>
     </li>
-<li class="Grid-U-1-5 Zoom-1 Pos-r Bxz-bb Fz-s ss-item" data-uuid="b67bd706-7cc2-3cd9-8ecd-efe14e35ee88" data-alias="minecraft-steve-fights-super-mario-023535861" data-idx="1">
+
+    <li class="Grid-U-1-5 Zoom-1 Pos-r Bxz-bb Fz-s ss-item" data-uuid="b67bd706-7cc2-3cd9-8ecd-efe14e35ee88" data-alias="minecraft-steve-fights-super-mario-023535861" data-idx="1">
         <a href="/smosh/minecraft-steve-fights-super-mario-023535861.html" class="rapidnofollow rapid-nf" data-ylk="cat:Smosh;g:b67bd706-7cc2-3cd9-8ecd-efe14e35ee88;pkgt:1;pub:41f9535b-ba13-3ab2-967c-f862f288fadc;sec:Smosh;cpos:2;bpos:1;" data-alias="minecraft-steve-fights-super-mario-023535861">
             <div class="Ratio-16-9 Pos-r Ov-h">
                 <img src="https://s.yimg.com/uu/api/res/1.2/tUOxiBILw04LnrAPDD45bA--/dz0yMDg7Zmk9ZmlsbDtweW9mZj0wO2g9MTE3O2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/video.smosh.alloy.com/8e82241085163c84c72d35759a0be0c8" class="W-100 pl-img" alt="MINECRAFT STEVE FIGHTS SUPER MARIO!?!"><span class="current pl-marker Pos-a Bgc-n C-1 Fz-2xs smooth Tt-u">Now watching</span>
@@ -70,7 +93,8 @@ MINECRAFT STEVE FIGHTS SUPER MARIO!?!</p>
             
         </a>
     </li>
-<li class="Grid-U-1-5 Zoom-1 Pos-r Bxz-bb Fz-s ss-item" data-uuid="1e795c70-c118-3512-9abb-51ebc6b07b79" data-alias="free-proctology-exams-behind-scenes-072210112" data-idx="2">
+
+    <li class="Grid-U-1-5 Zoom-1 Pos-r Bxz-bb Fz-s ss-item" data-uuid="1e795c70-c118-3512-9abb-51ebc6b07b79" data-alias="free-proctology-exams-behind-scenes-072210112" data-idx="2">
         <a href="/smosh/free-proctology-exams-behind-scenes-072210112.html" class="rapidnofollow rapid-nf" data-ylk="cat:Smosh;g:1e795c70-c118-3512-9abb-51ebc6b07b79;pkgt:1;pub:41f9535b-ba13-3ab2-967c-f862f288fadc;sec:Smosh;cpos:3;bpos:1;" data-alias="free-proctology-exams-behind-scenes-072210112">
             <div class="Ratio-16-9 Pos-r Ov-h">
                 <img src="https://s1.yimg.com/uu/api/res/1.2/X1b6baMkNZeEbXCEwpbFiQ--/dz0yMDg7Zmk9ZmlsbDtweW9mZj0wO2g9MTE3O2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/video.smosh.alloy.com/b4d65324760bf28746d100aade170d30" class="W-100 pl-img" alt="FREE PROCTOLOGY EXAMS (Behind The Scenes)"><span class="current pl-marker Pos-a Bgc-n C-1 Fz-2xs smooth Tt-u">Now watching</span>
@@ -106,7 +130,8 @@ FREE PROCTOLOGY EXAMS (Behind The Scenes)</p>
             
         </a>
     </li>
-<li class="Grid-U-1-5 Zoom-1 Pos-r Bxz-bb Fz-s ss-item" data-uuid="b39457f9-0d23-3163-8997-dabe47a7ab45" data-alias="iphone-6-revealed-063344531" data-idx="3">
+
+    <li class="Grid-U-1-5 Zoom-1 Pos-r Bxz-bb Fz-s ss-item" data-uuid="b39457f9-0d23-3163-8997-dabe47a7ab45" data-alias="iphone-6-revealed-063344531" data-idx="3">
         <a href="/smosh/iphone-6-revealed-063344531.html" class="rapidnofollow rapid-nf" data-ylk="cat:Smosh;g:b39457f9-0d23-3163-8997-dabe47a7ab45;pkgt:1;pub:41f9535b-ba13-3ab2-967c-f862f288fadc;sec:Smosh;cpos:4;bpos:1;" data-alias="iphone-6-revealed-063344531">
             <div class="Ratio-16-9 Pos-r Ov-h">
                 <img src="https://s1.yimg.com/uu/api/res/1.2/a3Ude_pn0PmPWcKPTjfL.A--/dz0yMDg7Zmk9ZmlsbDtweW9mZj0wO2g9MTE3O2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/video.smosh.alloy.com/af3629b054491df69fb4dd9a05e8ae6b" class="W-100 pl-img" alt="IPHONE 6 REVEALED"><span class="current pl-marker Pos-a Bgc-n C-1 Fz-2xs smooth Tt-u">Now watching</span>
@@ -142,7 +167,8 @@ IPHONE 6 REVEALED</p>
             
         </a>
     </li>
-<li class="Grid-U-1-5 Zoom-1 Pos-r Bxz-bb Fz-s ss-item" data-uuid="ba0bfab5-b51c-315f-a030-0cbbefa1c0bd" data-alias="lunchtime-w-smosh-were-hecka-191405727" data-idx="4">
+
+    <li class="Grid-U-1-5 Zoom-1 Pos-r Bxz-bb Fz-s ss-item" data-uuid="ba0bfab5-b51c-315f-a030-0cbbefa1c0bd" data-alias="lunchtime-w-smosh-were-hecka-191405727" data-idx="4">
         <a href="/smosh/lunchtime-w-smosh-were-hecka-191405727.html" class="rapidnofollow rapid-nf" data-ylk="cat:Smosh;g:ba0bfab5-b51c-315f-a030-0cbbefa1c0bd;pkgt:1;pub:41f9535b-ba13-3ab2-967c-f862f288fadc;sec:Smosh;cpos:5;bpos:1;" data-alias="lunchtime-w-smosh-were-hecka-191405727">
             <div class="Ratio-16-9 Pos-r Ov-h">
                 <img src="https://s.yimg.com/uu/api/res/1.2/3eA5yGcd.AOz50qwDkqmpw--/dz0yMDg7Zmk9ZmlsbDtweW9mZj0wO2g9MTE3O2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/video.smosh.alloy.com/987a0963c377311b3ed75dfd0bfb7096" class="W-100 pl-img" alt="Lunchtime w/Smosh-WE'RE HECKA KAWAII!"><span class="current pl-marker Pos-a Bgc-n C-1 Fz-2xs smooth Tt-u">Now watching</span>
@@ -178,3 +204,16 @@ Lunchtime w/Smosh-WE'RE HECKA KAWAII!</p>
             
         </a>
     </li>
+
+
+                        
+                    
+                </ul>
+</div>
+        </div>
+        <button class="ss-next flat Pos-a Ta-c T-0 End-0 H-100 Wpx-20 Cur-p rapid-noclick-resp"><i class="Icon Fz-l Pos-r"></i></button>
+    </div>
+
+</div>
+
+    </div>
